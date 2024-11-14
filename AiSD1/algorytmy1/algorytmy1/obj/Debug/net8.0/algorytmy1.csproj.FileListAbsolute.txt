@@ -1,0 +1,15 @@
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\algorytmy1.exe
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\algorytmy1.deps.json
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\algorytmy1.runtimeconfig.json
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\algorytmy1.dll
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\algorytmy1.pdb
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.AssemblyInfoInputs.cache
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.AssemblyInfo.cs
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.csproj.CoreCompileInputs.cache
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.dll
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\refint\algorytmy1.dll
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.pdb
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\algorytmy1.genruntimeconfig.cache
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\obj\Debug\net8.0\ref\algorytmy1.dll
+C:\Users\ulazk\source\repos\algorytmy1\algorytmy1\bin\Debug\net8.0\In0101.txt

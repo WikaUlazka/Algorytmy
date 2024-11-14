@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytmy 3", "Algorytmy 3\Algorytmy 3.csproj", "{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA33E296-B7D5-4DCA-9774-D8CA0DB7CDE5}
+	EndGlobalSection
+EndGlobal

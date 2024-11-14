@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\studia\\AiSD1\\algorytmy1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69F2ED-AD56-4A8A-BB63-DF537AA574B2}|algorytmy1\\algorytmy1.csproj|c:\\studia\\aisd1\\algorytmy1\\algorytmy1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F69F2ED-AD56-4A8A-BB63-DF537AA574B2}|algorytmy1\\algorytmy1.csproj|solutionrelative:algorytmy1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F69F2ED-AD56-4A8A-BB63-DF537AA574B2}|algorytmy1\\algorytmy1.csproj|c:\\studia\\aisd1\\algorytmy1\\algorytmy1\\in0101.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F69F2ED-AD56-4A8A-BB63-DF537AA574B2}|algorytmy1\\algorytmy1.csproj|solutionrelative:algorytmy1\\in0101.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "In0101.txt",
+              "DocumentMoniker": "C:\\studia\\AiSD1\\algorytmy1\\algorytmy1\\In0101.txt",
+              "RelativeDocumentMoniker": "algorytmy1\\In0101.txt",
+              "ToolTip": "C:\\studia\\AiSD1\\algorytmy1\\algorytmy1\\In0101.txt",
+              "RelativeToolTip": "algorytmy1\\In0101.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T16:19:11.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\studia\\AiSD1\\algorytmy1\\algorytmy1\\Program.cs",
+              "RelativeDocumentMoniker": "algorytmy1\\Program.cs",
+              "ToolTip": "C:\\studia\\AiSD1\\algorytmy1\\algorytmy1\\Program.cs",
+              "RelativeToolTip": "algorytmy1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:29:40.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
