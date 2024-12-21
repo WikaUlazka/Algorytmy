@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\studia\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj": {}
+    "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj": {}
   },
   "projects": {
-    "C:\\studia\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj": {
+    "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\studia\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj",
+        "projectUniqueName": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj",
         "projectName": "Algorytmy2",
-        "projectPath": "C:\\studia\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj",
+        "projectPath": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy2\\Algorytmy2\\Algorytmy2.csproj",
         "packagesPath": "C:\\Users\\ulazk\\.nuget\\packages\\",
-        "outputPath": "C:\\studia\\AiSD1\\Algorytmy2\\Algorytmy2\\obj\\",
+        "outputPath": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy2\\Algorytmy2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

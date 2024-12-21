@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\studia\\AiSD1\\Algorytmy 3\\",
+  "WorkspaceRootPath": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|c:\\studia\\aisd1\\algorytmy 3\\algorytmy 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|c:\\studia\\algorytmy\\aisd1\\algorytmy 3\\algorytmy 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|solutionrelative:algorytmy 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|c:\\studia\\aisd1\\algorytmy 3\\algorytmy 3\\in0103.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|c:\\studia\\algorytmy\\aisd1\\algorytmy 3\\algorytmy 3\\in0103.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D374B616-D5DB-447B-BA5A-6F3DE0FBC8AF}|Algorytmy 3\\Algorytmy 3.csproj|solutionrelative:algorytmy 3\\in0103.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "In0103.txt",
-              "DocumentMoniker": "C:\\studia\\AiSD1\\Algorytmy 3\\Algorytmy 3\\In0103.txt",
+              "DocumentMoniker": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy 3\\Algorytmy 3\\In0103.txt",
               "RelativeDocumentMoniker": "Algorytmy 3\\In0103.txt",
-              "ToolTip": "C:\\studia\\AiSD1\\Algorytmy 3\\Algorytmy 3\\In0103.txt",
+              "ToolTip": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy 3\\Algorytmy 3\\In0103.txt",
               "RelativeToolTip": "Algorytmy 3\\In0103.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-10-25T17:27:24.273Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\studia\\AiSD1\\Algorytmy 3\\Algorytmy 3\\Program.cs",
+              "DocumentMoniker": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy 3\\Algorytmy 3\\Program.cs",
               "RelativeDocumentMoniker": "Algorytmy 3\\Program.cs",
-              "ToolTip": "C:\\studia\\AiSD1\\Algorytmy 3\\Algorytmy 3\\Program.cs",
+              "ToolTip": "C:\\studia\\Algorytmy\\AiSD1\\Algorytmy 3\\Algorytmy 3\\Program.cs",
               "RelativeToolTip": "Algorytmy 3\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAArwCgAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T16:23:41.034Z",
               "EditorCaption": ""

@@ -13,3 +13,19 @@ C:\studia\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.pdb
 C:\studia\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.genruntimeconfig.cache
 C:\studia\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\ref\Algorytmy 3.dll
 C:\studia\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\In0103.txt
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\Algorytmy 3.exe
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\In0103.txt
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\Algorytmy 3.deps.json
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\Algorytmy 3.runtimeconfig.json
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\Algorytmy 3.dll
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\bin\Debug\net8.0\Algorytmy 3.pdb
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.AssemblyInfoInputs.cache
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.AssemblyInfo.cs
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.csproj.CoreCompileInputs.cache
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.sourcelink.json
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.dll
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\refint\Algorytmy 3.dll
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.pdb
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\Algorytmy 3.genruntimeconfig.cache
+C:\studia\Algorytmy\AiSD1\Algorytmy 3\Algorytmy 3\obj\Debug\net8.0\ref\Algorytmy 3.dll
